@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vinay-Vastrakar
 - 👀 I’m interested in .. Software Development
-- 🌱 I’m currently learning ... Backend
-- 💞️ I’m looking to collaborate on ... Live Application
-- 📫 How to reach me ...vinay.vastrakar@gloitel.in
+- 🌱 I’m currently learning Backend Development
+- 💞️ I’m looking to collaborate on Live Application
+- 📫 How to reach me vinay.vastrakar@gloitel.in
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
